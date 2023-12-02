@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishaal K R
-- 👀 I’m interested in Software Development 
+- 👀 I’m interested in Mobile App Development 
 - 🌱 I’m currently learning Flutter Technology 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
