@@ -1,4 +1,4 @@
-# 💫About Me :
+# Hi 👋 I'm Vishaal
 🎓 Final-year B.E. Student | Passionate about technology and innovation.
 
 🔭 Participated in Smart India Hackathon, working on advanced solutions like lunar image enhancement using ML techniques.
